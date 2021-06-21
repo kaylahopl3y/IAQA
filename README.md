@@ -17,7 +17,10 @@ Results:
 
 Q3 - Analysis
 
-Explanation and working out is the in the pdf, the code and CSV's can be found in the folder Q3Analysis
+Explanation and working out is the in the pdf, the code and CSV's can be found in the folder Q3Analysis. I used ccxt to retrieve the data 
+
+![ccxt](https://user-images.githubusercontent.com/69542935/122811702-19560e00-d2d1-11eb-9311-ca499114499c.png)
+
 
 Q4 - Engineering and Market Operations
 
