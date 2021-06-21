@@ -23,5 +23,5 @@ Q4 - Engineering and Market Operations
 
 Unable to verify my Coinbase Pro account (last attempt submitted 21/06/21 18:00) but explanation found in pdf
 
-PID![ID rejected twice](https://user-images.githubusercontent.com/69542935/122807246-a007ec80-d2cb-11eb-8c21-639f1fbe40bf.png)
+![ID rejected twice](https://user-images.githubusercontent.com/69542935/122807246-a007ec80-d2cb-11eb-8c21-639f1fbe40bf.png)
  
