@@ -2,7 +2,7 @@
 
 Q1 - Theory
 
-All questions with solutions can be found in the pdf attached along with references 
+All questions with solutions can be found in the QA_solutions.pdf attached along with references 
 
 Q2 - Problem Solving
 
